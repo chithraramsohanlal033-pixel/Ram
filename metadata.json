@@ -1,0 +1,11 @@
+{
+  "name": "Remix Azure Blue",
+  "description": "A stylish blue-themed social platform featuring feed posts, stories, reels, messaging, explore, profiles, and customizable security settings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
